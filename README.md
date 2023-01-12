@@ -27,10 +27,10 @@ To clone and run this application, you'll need [Git](https://git-scm.com) instal
 
 ```bash
 # Clone this repository
-$ gh repo clone bdhamithkumara/Loading-Animation11
+$ gh repo clone bdhamithkumara/Loading-Animation12
 
 # Go into the repository
-$ cd Loading-Animation11
+$ cd Loading-Animation12
 
 ```
 
